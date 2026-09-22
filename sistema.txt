@@ -3,3 +3,4 @@ FUNCIONALIDADES
 - Cadastro de alunos
 - Registro de notas
 - Registro de presença
+- Suporte
