@@ -1,0 +1,31 @@
+ALUNOS
+
+{
+	nome: Carol,
+	idade: 17,
+	curso: DS
+}
+
+{
+	nome: Caio,
+	idade: 19,
+	curso: bio
+}
+
+{
+	nome: Mariana,
+	idade: 18,
+	curso: eletro
+}
+
+{
+	nome: Ronaldo,
+	idade: 20,
+	curso: letras
+}
+
+{
+	nome: Cleide,
+	idade: 19,
+	curso: fisica
+}
